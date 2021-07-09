@@ -1,6 +1,6 @@
 # python-crypto
-
-This code deals using Caesar Cipher or Shift Cipher
+Cryptography using Python
+          This code deals using Caesar Cipher or Shift Cipher
 
 Cryptography is a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process it. The prefix "crypt-" means "hidden" or "vault" -- and the suffix "-graphy" stands for "writing."
 
